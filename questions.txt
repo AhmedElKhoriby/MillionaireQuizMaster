@@ -1,0 +1,12 @@
+What is the main function of the CPU?;Process data;Store data;Display data;Transmit data;1
+Which language is primarily used for web development?;JavaScript;C++;Python;Java;1
+What does the acronym 'HTML' stand for?;HyperText Markup Language;HighText Markup Language;HyperText Machine Language;HighText Machine Language;1
+What is the primary purpose of an operating system?;Manage hardware and software;Execute web applications;Store data;Protect against viruses;1
+What is an algorithm?;A step-by-step procedure for solving a problem;A programming language;A data storage format;A computer virus;1
+Which data structure follows the Last In First Out (LIFO) principle?;Stack;Queue;Array;Linked List;1
+What does 'HTTP' stand for?;HyperText Transfer Protocol;HyperTool Transfer Protocol;HighText Transfer Protocol;HighTool Transfer Protocol;1
+Which of the following is an example of a high-level programming language?;Python;Assembly;Machine Code;Binary;1
+What is the purpose of a compiler?;Translate high-level code to machine code;Execute code;Store data;Debug code;1
+Which company developed the first computer?;IBM;Microsoft;Apple;ENIAC;1
+What is the function of RAM in a computer?;Store data temporarily;Store data permanently;Execute programs;Manage network traffic;1
+What does 'SQL' stand for?;Structured Query Language;Standard Query Language;Simple Query Language;Sequential Query Language;1
